@@ -128,4 +128,4 @@ script:
   - cd ${PWD}/tests
 
   # Run test.
-  - ./test.sh
+  - ./test.sh 
