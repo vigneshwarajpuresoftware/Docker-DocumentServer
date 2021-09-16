@@ -129,7 +129,3 @@ script:
 
   # Run test.
   - ./test.sh 
-  
-  # Build
-  - make
-
